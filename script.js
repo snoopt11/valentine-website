@@ -56,7 +56,7 @@ function generateMessage(noCount) {
         "진짜진짜진짜로?????????",
         "힝ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ",
         "아아ㅏ아ㅏㅏ아ㅏ아ㅏㅏㅇㅇ아ㅏㅏ아아아ㅏ아ㅏ",
-        "힝ㅎ이힝힝힝히ㅣㅇ유유윻유ㅠ유ㅠㅎ유휴휴",
+        "다시한번 자아알 생각해봥",
     ];
 
     const messageIndex = Math.min(noCount, messages.length - 1);
